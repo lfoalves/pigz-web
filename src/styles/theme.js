@@ -1,0 +1,26 @@
+export const theme = {
+  COLORS: {
+    WHITE: '#FFFFFF',
+    WHITE_CARD: '#FAFAFA',
+    WHITE_GRAY: '#EEEEEE',
+    WHITE_TRANSPARENT: '#FFFFFFF0',
+    ORANGE: '#FA641E',
+    ORANGE_YELLOW: '#FF881F',
+    ORANGE_YELLOW_OPACITY: 'rgba(255, 136, 31, .7)',
+    ORANGE_INPUT: '#FF671F52',
+    ORANGE_FOOTER: '#FF671F',
+    GRAY_300: '#333333',
+    GRAY_600: '#666666',
+    GRAY_FOOTER: '#676767',
+    GRAY_FOOTER_LINE: '#9F9F9F',
+    BORDER_INPUT: '#999999',
+    PLACEHOLDER_INPUT: '#CCCCCC',
+    BLACK: '#000000'
+  },
+  SHADOW: {
+    GRAY_014: '#00000014'
+  },
+  FONT: {
+    POPPINS: 'Poppins, sans-serif;'
+  }
+}
